@@ -95,3 +95,6 @@ def winner(board)
     board[winc.first]
   end
 end
+
+def play(board)
+end
